@@ -22,11 +22,11 @@
 }
 
 .page-content {
-  color: rgb(228, 187, 1);
+  color: rgb(228 187 1);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
 body {
-  background-color: rgb(255, 0, 0);
+  background-color: rgb(255 0 0);
 }
